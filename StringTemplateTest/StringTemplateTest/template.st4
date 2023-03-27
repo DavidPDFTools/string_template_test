@@ -9,8 +9,8 @@ $Tests:{test|
 $test.value$}$
 
 $Tests:{test|
-$test.value$}
-$
+$test.value$
+}$
 
 $Tests:{test|$if(test.IsTrue)$$test.value$$endif$}$
 
@@ -38,9 +38,4 @@ $endif$}$
 
 $Tests:{test|$if(test.IsTrue)$$test.value$
 $endif$
-}$
-
-$Tests:{test|
-$if(test.IsTrue)$
-$test.value$$endif$
 }$
