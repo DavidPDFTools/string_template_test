@@ -1,6 +1,7 @@
-
+1.
 abcdefgh
 
+2.
 a
 b
 c
@@ -11,6 +12,7 @@ g
 h
 
 
+3.
 a
 b
 c
@@ -20,6 +22,7 @@ f
 g
 h
 
+4.
 a
 b
 c
@@ -30,18 +33,22 @@ g
 h
 
 
+5.
 aabccddeefgh
 
+6.
 aab
 cc
 dd
 eefgh
 
+7.
 aab
 cc
 dd
 eefgh
 
+8.
 a
 a
 b
@@ -55,12 +62,14 @@ f
 g
 h
 
+9.
 a
 abc
 cd
 de
 efgh
 
+10.
 a
 a
 bc
@@ -71,12 +80,14 @@ f
 g
 h
 
+11.
 a
 abc
 cd
 de
 efgh
 
+12.
 a
 abc
 cd
