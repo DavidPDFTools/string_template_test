@@ -12,30 +12,30 @@ $Tests:{test|
 $test.value$
 }$
 
-$Tests:{test|$if(test.IsTrue)$$test.value$$endif$}$
+$Tests:{test|$if(test.IsTrue)$$test.value$$endif$$test.value$}$
 
 $Tests:{test|$if(test.IsTrue)$
-$test.value$$endif$}$
+$test.value$$endif$$test.value$}$
 
 $Tests:{test|$if(test.IsTrue)$
 $test.value$$endif$
-}$
+$test.value$}$
 
 $Tests:{test|
 $if(test.IsTrue)$
 $test.value$
 $endif$
-}$
+$test.value$}$
 
 $Tests:{test|$if(test.IsTrue)$$test.value$
-$endif$}$
+$endif$$test.value$}$
 
 $Tests:{test|$if(test.IsTrue)$$test.value$$endif$
-}$
+$test.value$}$
 
 $Tests:{test|$if(test.IsTrue)$$test.value$
-$endif$}$
+$endif$$test.value$}$
 
 $Tests:{test|$if(test.IsTrue)$$test.value$
 $endif$
-}$
+$test.value$}$

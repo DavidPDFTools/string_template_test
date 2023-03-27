@@ -30,43 +30,55 @@ g
 h
 
 
-acde
+aabccddeefgh
+
+aab
+cc
+dd
+eefgh
+
+aab
+cc
+dd
+eefgh
 
 a
+a
+b
+c
 c
 d
+d
 e
+e
+f
+g
+h
 
 a
-c
-d
-e
+abc
+cd
+de
+efgh
 
 a
-c
-d
+a
+bc
+cd
+de
 e
-
+f
+g
+h
 
 a
-c
-d
-e
-
-
-a
-c
-d
-e
-
+abc
+cd
+de
+efgh
 
 a
-c
-d
-e
-
-
-a
-c
-d
-e
+abc
+cd
+de
+efgh
