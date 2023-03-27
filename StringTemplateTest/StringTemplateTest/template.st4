@@ -31,7 +31,8 @@ $Tests:{test|
 $if(test.IsTrue)$
 $test.value$
 $endif$
-$test.value$}$
+$test.value$
+}$
 
 9.
 $Tests:{test|$if(test.IsTrue)$$test.value$
